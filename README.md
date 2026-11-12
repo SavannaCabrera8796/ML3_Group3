@@ -72,7 +72,7 @@ Review the implementation before launching the 27 additional training runs. Keep
 
 ## AI assistance
 
-I used OpenAI's ChatGPT (Codex) to help plan the code structure and experimental workflow, explain PyTorch concepts, and generate and revise portions of the notebook. I reviewed and adapted the code and take responsibility for its use, the experiments, and the interpretation of results.
+I used OpenAI's ChatGPT (Codex) to help plan the code structure and experimental workflow, explain PyTorch concepts, and generate well-written documentation. I reviewed and adapted the output and take responsibility for its use, the experiments, and the interpretation of results.
 
 ## Creating a Python environment
 
