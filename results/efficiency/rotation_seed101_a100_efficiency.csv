@@ -1,0 +1,3 @@
+scenario,parameters,peak_gpu_memory_mib,mean_latency_ms_per_image,median_latency_ms_per_image,latency_sample_sd_ms
+Joint,134268738,558.66,1.547,1.54,0.034
+Two separate models,268529282,1071.08,3.019,3.012,0.034
